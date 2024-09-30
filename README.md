@@ -451,7 +451,7 @@ __Does DevOps do coding?__
 DevOps involves some coding, but it's not primarily about writing code. It's more about improving processes, collaboration, and automation in software development and IT operations. While coding is essential for creating automation scripts and tools, it's just one aspect of DevOps.
 
 
-![alt text](image.png)
+
 
 
 
