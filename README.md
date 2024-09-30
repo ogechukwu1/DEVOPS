@@ -1,8 +1,7 @@
 # DEVOPS
 ## Introduction to DevOps
 
-
-![alt text](image-1.png)
+![](images/1.png)
 
 
 __UNDERSTAND THE BASICS__
@@ -130,10 +129,10 @@ __WATERFALL MODEL__ : Each phase must be completed before the next phase can beg
 __AGILE MODEL__ : Each iteration could be two to four weeks. it will be divided into smaller lists and work on the the lists for two to four weeks and move on to the next lists and so on. But at times the software testers are not able to access the servers or their test cases are failing. It will put extra stress on the team, there will be regular code changes. OPs team need to maintain system uptime all the time and you can pass the deadline. It addresses gaps and conflicts between the the customer and developers.
 
 
-![alt text](image-2.png)
+![](images/2.png)
 
 
-![alt text](image-3.png)
+
 
 
 Now thats when __DevOps__ comes into the picture.
