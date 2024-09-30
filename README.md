@@ -2,6 +2,9 @@
 ## Introduction to DevOps
 
 
+![alt text](image-1.png)
+
+
 __UNDERSTAND THE BASICS__
 
 Focus on the three key areas:
@@ -87,6 +90,8 @@ DevOps is a set of practices and cultural principles that aim to bridge the gap 
 DevOps bridges the gap between developers and IT operations team bringing them together to improve software delivery.
 
 
+DevOps is a blend of two terms: development and operations. Traditionally, both of these departments were isolated and this often creates problems. For example, it could take longer to release software or provide for effective testing.
+
 
 __THE CONCEPTS__ (SOFTWARE DEVELOPMENT LIFECYLE- SDLC)
 
@@ -123,6 +128,13 @@ There are different types of model in SDLC
 __WATERFALL MODEL__ : Each phase must be completed before the next phase can begin (the next phase is sterted only after the previous phase is completed). It's very difficult here to go back and change someting that was not well mapped out in the planning. It cannot accomodate changing requirement. The working software is produced very late in the lifecycle, it may take months.
 
 __AGILE MODEL__ : Each iteration could be two to four weeks. it will be divided into smaller lists and work on the the lists for two to four weeks and move on to the next lists and so on. But at times the software testers are not able to access the servers or their test cases are failing. It will put extra stress on the team, there will be regular code changes. OPs team need to maintain system uptime all the time and you can pass the deadline. It addresses gaps and conflicts between the the customer and developers.
+
+
+![alt text](image-2.png)
+
+
+![alt text](image-3.png)
+
 
 Now thats when __DevOps__ comes into the picture.
 
@@ -434,10 +446,12 @@ We have three kind of user in linux
 
 
 
+__Does DevOps do coding?__
+
+DevOps involves some coding, but it's not primarily about writing code. It's more about improving processes, collaboration, and automation in software development and IT operations. While coding is essential for creating automation scripts and tools, it's just one aspect of DevOps.
 
 
-
-
+![alt text](image.png)
 
 
 
